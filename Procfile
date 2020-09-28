@@ -1,1 +1,1 @@
-web: herokuAddr=huoche2.herokuapp.com npm run start
+web: herokuAddr=huoche3.herokuapp.com npm run start
